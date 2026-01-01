@@ -23,7 +23,7 @@ low-dimensional proxy for history.
 - A validated research claim
 
 ## Files
-- `experiment.ipynb` — original Colab notebook
+- `spectralsumm.ipynb` — original Colab notebook
 
 ## Status
 Archived exploratory work. Kept for continuity and learning.
